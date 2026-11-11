@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  background: #f5f7fb;
+  color: #1f2329;
+  font-family: 'PingFang SC', 'Microsoft YaHei', 'Helvetica Neue', Arial, sans-serif;
+}
+
+.page {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 24px 16px 64px;
+}
+
+.card {
+  background: #fff;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 1px 4px rgba(15, 23, 42, 0.08);
+  margin-bottom: 16px;
+}
+
+.muted {
+  color: #6b7280;
+  font-size: 13px;
+}
+
+.section-title {
+  font-size: 16px;
+  font-weight: 600;
+  margin: 0 0 12px;
+}
+
+.stat-value {
+  font-size: 24px;
+  font-weight: 600;
+  color: #2563eb;
+}
+
+.report-body {
+  line-height: 1.75;
+  font-size: 14px;
+}
+
+.report-body h1 { font-size: 22px; }
+.report-body h2 { font-size: 18px; margin-top: 24px; border-bottom: 1px solid #eee; padding-bottom: 6px; }
+.report-body h3 { font-size: 15px; margin-top: 20px; }
+.report-body table { border-collapse: collapse; width: 100%; margin: 8px 0; }
+.report-body th, .report-body td { border: 1px solid #e5e7eb; padding: 6px 8px; font-size: 13px; }
+.report-body th { background: #f8fafc; }
+.report-body blockquote { margin: 8px 0; padding: 8px 12px; background: #f8fafc; border-left: 3px solid #93c5fd; color: #475569; }
+.report-body code { background: #f1f5f9; padding: 1px 4px; border-radius: 4px; }
